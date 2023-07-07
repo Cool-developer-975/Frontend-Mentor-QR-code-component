@@ -28,8 +28,8 @@ Screenshoots/
 
 ### Links
 
-- Solution URL: [https://github.com/Ameya-kawade/Frontend-Mentor-QR-code-component](https://your-solution-url.com)
-- Live Site URL: [https://ameya-kawade.github.io/Frontend-Mentor-QR-code-component/](https://your-live-site-url.com)
+- Solution URL: https://github.com/Ameya-kawade/Frontend-Mentor-QR-code-component
+- Live Site URL: https://ameya-kawade.github.io/Frontend-Mentor-QR-code-component/
 
 ## My process
 
