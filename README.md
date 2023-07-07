@@ -47,8 +47,8 @@ Screenshoots/
 
 ## Author
 
-- Website - [https://ameya-kawade.github.io/Frontend-Mentor-QR-code-component/](https://www.your-site.com)
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Ameya-kawade](https://www.frontendmentor.io/profile/yourusername)
+- Website - https://ameya-kawade.github.io/Frontend-Mentor-QR-code-component/
+- Frontend Mentor - https://www.frontendmentor.io/profile/Ameya-kawade
 
 
 
