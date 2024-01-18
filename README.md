@@ -28,9 +28,6 @@ Screenshoots/
 
 ### Links
 
-- Solution URL: https://github.com/Ameya-kawade/Frontend-Mentor-QR-code-component
-- Live Site URL: https://ameya-kawade.github.io/Frontend-Mentor-QR-code-component/
-
 ## My process
 
   First, I made div with container class in which the QR code image and the text below it will be included and then on container I applied flexbox centered content and set the flex direction to column.
@@ -47,8 +44,6 @@ Screenshoots/
 
 ## Author
 
-- Website - https://ameya-kawade.github.io/Frontend-Mentor-QR-code-component/
-- Frontend Mentor - https://www.frontendmentor.io/profile/Ameya-kawade
 
 
 
